@@ -1,0 +1,10 @@
+<s> जब_PR मेरे_PR पास_N_NST एक_QT पैसा_N_NN नहीं_RP </s>
+Bigram perplexity  = 1.001811704525849
+trigram perplexity = 1.0012386564808766
+4gram perplexity   = 1.0010211035763825
+5gram perplexity   = 1.0008433370198297
+<s>आकाश_N_NN में_PSP भीषण_JJ विस्फोट_N_NN जैसी_N_NN ध्वनि_N_NN के_PSP साथ_PSP हजार_N_NN सूर्यों_N_NN का_PSP उजाला_N_NN फैलता_V_VM देख_V_VM कर_V_VAUX सब_QT चौंक_N_NN गए_V_VM </s>
+Bigram perplexity  = 1.0015066218392483
+trigram perplexity = 1.0002859183043158
+4gram perplexity   = 1
+5gram perplexity   = 1
